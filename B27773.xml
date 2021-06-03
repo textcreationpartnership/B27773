@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Chester giving an account of the present posture of affairs at Dublin, by a person lately arrived from thence. With an account what forces are embarqued for Ireland. Licensed, August 7. 1689.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27773</idno><idno type="EEBO-CITATION">99825180</idno>
+  <idno type="VID">207465</idno>
+  <idno type="EEBO-PROQUEST">2240915087</idno>
+  
+            <idno type="STC">Wing P61B</idno>
+            <idno type="PROQUEST">99825180</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825180e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2174:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Chester giving an account of the present posture of affairs at Dublin, by a person lately arrived from thence. With an account what forces are embarqued for Ireland. Licensed, August 7. 1689.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Wilson, at Charing-Cross,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J. P.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy has some print fade.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Military --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:207465:1"/>
+            <head>NEWS from CHESTER; Giving an ACCOUNT Of the Present Posture <hi>Of Affairs at Dublin, <hi>By a Person lately Arrived from thence.</hi>
+               </hi>
+            </head>
+            <head type="sub">With an ACCOUNT what Forces are Embarqued for <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">Licensed, <date>
+                  <hi>August</hi> 7. 1689.</date>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Chester,</hi>
+                  <date>
+                     <hi>August</hi> 5 1689.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs I have received, and according to my promise I here send you what at present occurs, <hi>viz.</hi> On Saturday night last here arrived Mr. <hi>Richard Swan</hi> a Cutler, who lived upon <hi>Essex</hi> Bridge in <hi>Dublin,</hi> with two more, who left <hi>Dublin</hi> on Thursday last, and bring this account, That before they came away, K. <hi>James</hi> had issued forth his Proclamation, commanding all Protestants of the inferiour sort, from Sixteen to Sixty, to appear upon St. <hi>Stephens</hi> Green, a place near the City, much like your <hi>Moor-fields London;</hi> but it hapned that very bad News coming from the North. That the Forces of <hi>Enniskilling</hi> had Beaten a part of the Irish Army, forcing them to a shameful Retreat, put the Court at <hi>Dublin</hi> so much out of order, that the Constables were ordered to go about, commanding the people to keep their Houses, and not to stir out. And that the Copper Money which is made Cur<g ref="char:EOLhyphen"/>rant in that Kingdom, hath already undone most of the Inhabitants, in somuch, that the Excise Office is forced to take it, there being no other Money to be had. And that it is supposed the Army before <hi>Derry</hi> will
+<pb n="2" facs="tcp:207465:2"/> will be drawn off, they having been so Harrassed with the continual Fatigues of the Siege. He also confirms the Imprisonment of the prin<g ref="char:EOLhyphen"/>cipal Inhabitants; and that upon the News of the English Army going thither, they were in a great Consternation. Here are arrived about One hundred and eighty Sail of Victuallers, with Eleven Convoys and Tenders, there having been Three Ships fitted up for Men of War at <hi>Liverpoole,</hi> and a Fire-ship. And here are shipped off Twelve Regi<g ref="char:EOLhyphen"/>ments of Foot, one of Horse, and one of Dragoons, goes from <hi>White-haven,</hi> being full of Courage and Resolution, under their Noble and Experienced Commander Count <hi>Solms;</hi> so that we doubt not but by the blessing of God to have a very good Account ere long of those blood thirsty people, who have acted so barbarously against the Innocent.</p>
+            <list>
+               <head>The Regiments that are Shipped off here, are</head>
+               <item>Duke of <hi>Schombergs, Dutchmen.</hi> Blew.</item>
+               <item>Lord <hi>Herbert, Welshmen.</hi> Blew and White.</item>
+               <item>Earl of <hi>Drogheda, Welshmen.</hi> Blew and White.</item>
+               <item>Lord Viscount <hi>Lisburne, Herefordshire</hi> Blew and Orange Breeches.</item>
+               <item>Earl of <hi>Kingston, Warwickshire,</hi> Red.</item>
+               <item>Count <hi>Solmes, Dutchmen.</hi> White.</item>
+               <item>Collonel <hi>Wharton, Torkshire.</hi> Red with Blew Vests.</item>
+               <item>Sir <hi>Hen. Ingoldsby, Staffordshire.</hi> Blew with Red Stockings,</item>
+               <item>Count <hi>Collamonts, French.</hi> White.</item>
+               <item>Earl of <hi>Roscomons, Wiltshire.</hi> Red.</item>
+               <item>Sir <hi>Edward Deerings, Shropshire.</hi> Blew.</item>
+               <item>Duke of <hi>Boltons, English.</hi> Blew.</item>
+            </list>
+            <p>We expect daily the other Forces to Encamp, our General the Duke of <hi>Schomberg</hi> is extreamly vigilant and careful that they commit no dis<g ref="char:EOLhyphen"/>orders, keeping exact Discipline, by which means the Countrey people are very well pleased, the Officers and Souldiers paying for what they call for, hath obliged them very much. I hope we may shortly return to our own homes in peace,</p>
+            <closer>
+               <signed>
+                  <hi>I am yours to Command,</hi> J. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed for</hi> J. <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, at Charing-Cross. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
